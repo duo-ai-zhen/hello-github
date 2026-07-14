@@ -1,5 +1,5 @@
 # Hello-GitHub
-This project help you to use GitHub
+这个项目教会你从0到1上手GitHub
 
 ## 📚 学习目录
 
